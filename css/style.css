@@ -57,6 +57,7 @@ background: linear-gradient(to left, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Fi
 }
 ul.address li ul.address-text li {
     float: left;
+    height: 21px;
     font-size: 0.95em;
     margin-top: 0.9em;
     font-weight: 100;
